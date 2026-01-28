@@ -15,4 +15,7 @@
       ]
     }
   }
+
+  "postCreateCommand": ".devcontainer/postCreate.sh"
+  
 }
